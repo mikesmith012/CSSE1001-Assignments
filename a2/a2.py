@@ -170,8 +170,6 @@ class GameLogic:
 
         return positions
 
-    # Write your code here
-
     def get_dungeon_size(self):
         """
         Gets the dungeon size
