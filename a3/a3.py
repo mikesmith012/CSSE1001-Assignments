@@ -8,8 +8,8 @@ from tkinter import messagebox, filedialog
 from PIL import Image, ImageTk
 
 
-__author__ = "{{Mike Smith}} ({{46408789}})"
-__email__ = "s4640878@student.uq.edu.au"
+__author__ = "Mike Smith"
+__email__ = "dongming.shi@uqconnect.edu.au"
 __date__ = "30/10/2020"
 
 

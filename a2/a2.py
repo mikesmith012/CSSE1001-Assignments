@@ -3,8 +3,8 @@ CSSE1001 Assignment 2
 Semester 2, 2020
 """
 
-__author__ = "{{Mike Smith}} ({{46408789}})"
-__email__ = "s4640878@student.uq.edu.au"
+__author__ = "Mike Smith"
+__email__ = "dongming.shi@uqconnect.edu.au"
 __date__ = "28/09/2020"
 
 
